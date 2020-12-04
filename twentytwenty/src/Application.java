@@ -1,4 +1,4 @@
-import day3.TobogganTrajectory;
+import day4.PassportProcessing;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -11,8 +11,8 @@ public class Application {
 
     public static void main(String[] args) {
         System.out.println(runWithFileInput(
-                "/Users/kasparkivistik/dev/adventofcode/twentytwenty/src/day3/input.txt",
-                TobogganTrajectory::countABunchOfTrees)
+                "/Users/kasparkivistik/dev/adventofcode/twentytwenty/src/day4/input.txt",
+                PassportProcessing::process)
         );
     }
 

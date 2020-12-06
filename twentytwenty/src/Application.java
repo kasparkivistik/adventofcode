@@ -1,4 +1,4 @@
-import day5.BinaryBoarding;
+import day6.CustomCustoms;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -11,8 +11,8 @@ public class Application {
 
     public static void main(String[] args) {
         System.out.println(runWithFileInput(
-                "/Users/kasparkivistik/dev/adventofcode/twentytwenty/src/day5/input.txt",
-                BinaryBoarding::pt2)
+                "/Users/kasparkivistik/dev/adventofcode/twentytwenty/src/day6/input.txt",
+                CustomCustoms::countQuestions2)
         );
     }
 

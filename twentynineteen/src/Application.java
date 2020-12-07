@@ -1,4 +1,4 @@
-import day7.HandyHaversacks;
+import day1.RocketEquation;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -11,8 +11,8 @@ public class Application {
 
     public static void main(String[] args) {
         System.out.println(runWithFileInput(
-                "/Users/kasparkivistik/dev/adventofcode/twentytwenty/src/day7/input.txt",
-                HandyHaversacks::checkForGold)
+                "/Users/kasparkivistik/dev/adventofcode/twentynineteen/src/day1/input.txt",
+                RocketEquation::calculateFuel)
         );
     }
 
@@ -24,4 +24,5 @@ public class Application {
             return null;
         }
     }
+
 }

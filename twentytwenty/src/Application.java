@@ -12,7 +12,7 @@ public class Application {
     public static void main(String[] args) {
         System.out.println(runWithFileInput(
                 "/Users/kasparkivistik/dev/adventofcode/twentytwenty/src/day8/input.txt",
-                HandheldHalting::processor)
+                HandheldHalting::processor1)
         );
     }
 

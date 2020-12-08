@@ -25,6 +25,10 @@ public class HandheldHalting {
         return -1;
     }
 
+    public static int processor1(List<String> lines) {
+        return run(lines).left;
+    }
+
     static HandyHaversacks.Tuple<Integer, Integer> run(List<String> lines) {
         AtomicInteger accumulator = new AtomicInteger();
         AtomicInteger pointer = new AtomicInteger();

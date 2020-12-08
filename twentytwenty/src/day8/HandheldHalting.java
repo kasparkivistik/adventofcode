@@ -51,8 +51,6 @@ public class HandheldHalting {
                     pointer.incrementAndGet();
                     break;
             }
-
-            if (pointer.get() == lines.size()) break;
         }
 
         return new HandyHaversacks.Tuple<>(accumulator.get(), pointer.get());

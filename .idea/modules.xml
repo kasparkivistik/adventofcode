@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adventofcode.iml" filepath="$PROJECT_DIR$/adventofcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twentynineteen/twentynineteen.iml" filepath="$PROJECT_DIR$/twentynineteen/twentynineteen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twentytwenty/twentytwenty.iml" filepath="$PROJECT_DIR$/twentytwenty/twentytwenty.iml" />
+    </modules>
+  </component>
+</project>

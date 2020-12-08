@@ -1,0 +1,175 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="RIGHT_MARGIN" value="160" />
+    <DB2CodeStyleSettings version="1">
+      <option name="myVersion" value="1" />
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="IMP_DECLARE_EL_WRAP" value="1" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    </DB2CodeStyleSettings>
+    <DerbyCodeStyleSettings version="1">
+      <option name="myVersion" value="1" />
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="IMP_DECLARE_EL_WRAP" value="1" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    </DerbyCodeStyleSettings>
+    <H2CodeStyleSettings version="1">
+      <option name="myVersion" value="1" />
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="IMP_DECLARE_EL_WRAP" value="1" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    </H2CodeStyleSettings>
+    <HSQLCodeStyleSettings version="1">
+      <option name="myVersion" value="1" />
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="IMP_DECLARE_EL_WRAP" value="1" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    </HSQLCodeStyleSettings>
+    <JSCodeStyleSettings version="0">
+      <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
+      <option name="USE_DOUBLE_QUOTES" value="false" />
+      <option name="FORCE_QUOTE_STYlE" value="true" />
+    </JSCodeStyleSettings>
+    <JavaCodeStyleSettings>
+      <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+      <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
+    </JavaCodeStyleSettings>
+    <JetCodeStyleSettings>
+      <option name="PACKAGES_TO_USE_STAR_IMPORTS">
+        <value>
+          <package name="java.util" alias="false" withSubpackages="false" />
+          <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
+          <package name="io.ktor" alias="false" withSubpackages="true" />
+        </value>
+      </option>
+      <option name="PACKAGES_IMPORT_LAYOUT">
+        <value>
+          <package name="" alias="false" withSubpackages="true" />
+          <package name="java" alias="false" withSubpackages="true" />
+          <package name="javax" alias="false" withSubpackages="true" />
+          <package name="kotlin" alias="false" withSubpackages="true" />
+          <package name="" alias="true" withSubpackages="true" />
+        </value>
+      </option>
+    </JetCodeStyleSettings>
+    <MSSQLCodeStyleSettings version="1">
+      <option name="myVersion" value="1" />
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="IMP_DECLARE_EL_WRAP" value="1" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    </MSSQLCodeStyleSettings>
+    <MySQLCodeStyleSettings version="1">
+      <option name="myVersion" value="1" />
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="IMP_DECLARE_EL_WRAP" value="1" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    </MySQLCodeStyleSettings>
+    <OracleCodeStyleSettings version="1">
+      <option name="myVersion" value="1" />
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="IMP_DECLARE_EL_WRAP" value="1" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    </OracleCodeStyleSettings>
+    <PostgresCodeStyleSettings version="1">
+      <option name="myVersion" value="1" />
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="IMP_DECLARE_EL_WRAP" value="1" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    </PostgresCodeStyleSettings>
+    <SQLiteCodeStyleSettings version="1">
+      <option name="myVersion" value="1" />
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="IMP_DECLARE_EL_WRAP" value="1" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    </SQLiteCodeStyleSettings>
+    <ScalaCodeStyleSettings>
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="scala.util.Success" />
+        </array>
+      </option>
+    </ScalaCodeStyleSettings>
+    <SqlCodeStyleSettings version="1">
+      <option name="myVersion" value="1" />
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="IMP_DECLARE_EL_WRAP" value="1" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    </SqlCodeStyleSettings>
+    <SybaseCodeStyleSettings version="1">
+      <option name="myVersion" value="1" />
+      <option name="KEYWORD_CASE" value="0" />
+      <option name="TABLE_OPENING" value="1" />
+      <option name="TABLE_CONTENT" value="2" />
+      <option name="TABLE_CLOSING" value="3" />
+      <option name="POST_OPT_WRAP_1" value="true" />
+      <option name="IMP_DECLARE_EL_WRAP" value="1" />
+      <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
+    </SybaseCodeStyleSettings>
+    <TypeScriptCodeStyleSettings version="0">
+      <option name="FORCE_SEMICOLON_STYLE" value="true" />
+      <option name="USE_DOUBLE_QUOTES" value="false" />
+      <option name="FORCE_QUOTE_STYlE" value="true" />
+      <option name="IMPORTS_WRAP" value="0" />
+      <option name="SPACES_WITHIN_IMPORTS" value="true" />
+      <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
+    </TypeScriptCodeStyleSettings>
+    <codeStyleSettings language="HTML">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="CONTINUATION_INDENT_SIZE" value="4" />
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="JavaScript">
+      <indentOptions>
+        <option name="INDENT_SIZE" value="2" />
+        <option name="CONTINUATION_INDENT_SIZE" value="2" />
+        <option name="TAB_SIZE" value="2" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="TypeScript">
+      <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+      <option name="WRAP_ON_TYPING" value="0" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>

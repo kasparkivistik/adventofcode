@@ -47,8 +47,8 @@ public class HandyHaversacks {
     }
 
     public static class Tuple<L, R> {
-        L left;
-        R right;
+        public L left;
+        public R right;
 
         public Tuple(L left, R right) {
             this.left = left;

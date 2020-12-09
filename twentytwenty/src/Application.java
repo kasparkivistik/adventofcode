@@ -1,4 +1,4 @@
-import day8.HandheldHalting;
+import day9.EncodingError;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -11,8 +11,8 @@ public class Application {
 
     public static void main(String[] args) {
         System.out.println(runWithFileInput(
-                "/Users/kasparkivistik/dev/adventofcode/twentytwenty/src/day8/input.txt",
-                HandheldHalting::processor)
+                "/Users/kasparkivistik/dev/adventofcode/twentytwenty/src/day9/input.txt",
+                EncodingError::findTheError)
         );
     }
 

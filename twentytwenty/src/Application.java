@@ -1,4 +1,4 @@
-import day9.EncodingError;
+import day10.AdapterArray;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -11,8 +11,8 @@ public class Application {
 
     public static void main(String[] args) {
         System.out.println(runWithFileInput(
-                "/Users/kasparkivistik/dev/adventofcode/twentytwenty/src/day9/input.txt",
-                EncodingError::findTheError)
+                "/Users/kasparkivistik/dev/adventofcode/twentytwenty/src/day10/input.txt",
+                AdapterArray::pt2)
         );
     }
 
